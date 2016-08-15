@@ -1,0 +1,7 @@
+MMAI shot detection and video summarization:
+
+1. shot detection implement in mmai_hw1a.m with Matlab.
+2. video summarization implement in mmai_hw1b.m is a modification based on [1]. the result is demo in video_6/7_summary. The algorithm is implemented in Searcharrangement.m
+
+
+[1] S. Uchihashi and J. Foote, "Summarizing Video Using a Shot Importance Measure and a Frame- Packing Algorithm," ICASSP 1999.  
